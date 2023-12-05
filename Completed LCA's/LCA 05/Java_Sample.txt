@@ -1,0 +1,10 @@
+import java.io.*
+class main
+{
+//This is a comment
+int a=1;
+int b=2;
+int c;
+c=a+b;
+System.out.println("Hello World: " +c);
+}
